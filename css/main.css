@@ -2,7 +2,6 @@ body {
     width: 100%;
     margin: 0 auto;
     font: 13px "futura-pt", 'Microsoft YaHei', Helvetica, Arial, sans-serif;
-    overflow-y: hidden;
 }
 body .wrapper {
     max-width: 980px;
