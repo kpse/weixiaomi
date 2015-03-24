@@ -1,0 +1,28 @@
+body {
+    width: 100%;
+    margin: 0 auto;
+    font: 13px "futura-pt", 'Microsoft YaHei', Helvetica, Arial, sans-serif;
+    overflow-y: hidden;
+}
+body .wrapper {
+    max-width: 980px;
+    width: 90%;
+    text-decoration: none;
+    margin: 0 auto;
+}
+body a {
+    color: #7ea1ae;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.hero {
+    width: 100%;
+}
+
+.download {
+    margin: 0 auto;
+    padding: 20px;
+    height: 100%;
+    overflow-y: hidden;
+}
