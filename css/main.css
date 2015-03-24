@@ -25,3 +25,8 @@ body a {
     height: 100%;
     overflow-y: hidden;
 }
+
+.download a {
+    display: block;
+    margin: 50px auto;
+}
